@@ -1,0 +1,11 @@
+{
+  "name": "minimal-js-menubar",
+  "version": "1.0.0",
+  "devDependencies": {
+    "electron": "^1.6.11",
+    "electron-packager": "^8.0.0"
+  },
+  "dependencies": {},
+  "main": "main.js",
+  "scripts": {}
+}
